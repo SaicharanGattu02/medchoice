@@ -1,0 +1,1 @@
+ C:\\Users\\MYPC\\StudioProjects\\medchoicenew\\.dart_tool\\flutter_build\\0175a26e6ae0fc24c1bad7808eac920e\\native_assets.yaml: 

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.pixl.medchoice.app-merged_res-40:/xml_network_security_config.xml.flat",
+        "source": "com.pixl.medchoice.app-main-34:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.pixl.medchoice.app-merged_res-40:/drawable-v21_launch_background.xml.flat",
+        "source": "com.pixl.medchoice.app-main-34:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.pixl.medchoice.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.pixl.medchoice.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pixl.medchoice.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.pixl.medchoice.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pixl.medchoice.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.pixl.medchoice.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pixl.medchoice.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.pixl.medchoice.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pixl.medchoice.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.pixl.medchoice.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    }
+]
